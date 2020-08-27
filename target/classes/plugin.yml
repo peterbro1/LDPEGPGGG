@@ -1,0 +1,7 @@
+name: Bustabit
+main: me.gmx.Bustabit
+version: 1.0-SNAPSHOT
+author: GMX
+commands:
+  bustabit:
+    aliases: [crash,bust,crasher]

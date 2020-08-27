@@ -1,0 +1,7 @@
+name: Bustabit
+main: me.gmx.Bustabit
+version: ${project.version}
+author: GMX
+commands:
+  bustabit:
+    aliases: [crash,bust,crasher]

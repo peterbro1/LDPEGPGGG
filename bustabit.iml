@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="IntelliGuard" name="Obfuscation">
+      <configuration>
+        <option name="yGuardJar" value="C:\Users\peter\Desktop\yguard.jar" />
+        <option name="inFile" value="C:\Users\peter\Desktop\git\bustabit\target\Bustabit.jar" />
+        <option name="outFile" value="C:\Users\peter\Desktop\git\bustabit\target\Bustabit-0.11o.jar" />
+        <option name="mainclass" value="me.gmx.Bustabit" />
+        <option name="namingScheme" value="best" />
+        <option name="jarConfig">
+          <JarConfig>
+            <option name="jarEntries">
+              <list>
+                <option value="C:\Users\peter\Desktop\git\bustabit\target\classes" />
+              </list>
+            </option>
+          </JarConfig>
+        </option>
+      </configuration>
+    </facet>
+  </component>
+</module>
